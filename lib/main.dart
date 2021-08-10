@@ -60,7 +60,7 @@ class MyApp extends StatelessWidget {
                 width: 5),
                 color: Colors.amberAccent ) ,
             
-            child: Text('welcome',
+            child: Text('changes',
             style:TextStyle(
               shadows:[Shadow(offset: Offset(15.0,15.0),blurRadius: 10.0,color: Colors.indigoAccent)],
               fontSize: 40,

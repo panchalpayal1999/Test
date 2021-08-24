@@ -38,8 +38,8 @@ class MyApp extends StatelessWidget {
           
           child: Container(
             
-            height: 200,
-            width: 200,
+            height: 400,
+            width: 400,
           
             transform:Matrix4.rotationZ(0.2),
             decoration: BoxDecoration(
